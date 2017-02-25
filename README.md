@@ -1,2 +1,3 @@
 # hello-world
-yet another repository
+
+a hello world github project
